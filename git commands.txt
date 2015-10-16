@@ -4,4 +4,5 @@ git status
 git push
 
 git add -A
-g
+git add "<Filename>"
+git commit -m "Learning"
